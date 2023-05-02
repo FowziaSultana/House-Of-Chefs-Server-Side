@@ -14,6 +14,12 @@ app.get("/", (req, res) => {
 app.get("/chefs", (req, res) => {
   res.send(chefs);
 });
+app.get("/chefs/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const selectedChef = chefs.find((chef) => chef.ChefId === id);
+
+  res.send(selectedChef);
+});
 
 app.listen(port, () => {
   console.log(`Dragon API is running on port: ${port}`);
