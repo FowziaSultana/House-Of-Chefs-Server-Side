@@ -1,0 +1,66 @@
+[
+  {
+    "ChefId": 1,
+    "ChefPicture": "https://example.com/chef1.jpg",
+    "ChefName": "John Smith",
+    "YearsOfExperience": 10,
+    "NumberOfRecipes": 50,
+    "Likes": 1000
+  },
+  {
+    "ChefId": 2,
+    "ChefPicture": "https://example.com/chef2.jpg",
+    "ChefName": "Sarah Lee",
+    "YearsOfExperience": 5,
+    "NumberOfRecipes": 20,
+    "Likes": 500
+  },
+  {
+    "ChefId": 3,
+    "ChefPicture": "https://example.com/chef3.jpg",
+    "ChefName": "David Kim",
+    "YearsOfExperience": 8,
+    "NumberOfRecipes": 30,
+    "Likes": 800
+  },
+  {
+    "ChefId": 4,
+    "ChefPicture": "https://example.com/chef4.jpg",
+    "ChefName": "Emily Chen",
+    "YearsOfExperience": 3,
+    "NumberOfRecipes": 15,
+    "Likes": 300
+  },
+  {
+    "ChefId": 5,
+    "ChefPicture": "https://example.com/chef5.jpg",
+    "ChefName": "James Rodriguez",
+    "YearsOfExperience": 12,
+    "NumberOfRecipes": 75,
+    "Likes": 1500
+  },
+  {
+    "ChefId": 6,
+    "ChefPicture": "https://example.com/chef6.jpg",
+    "ChefName": "Maria Garcia",
+    "YearsOfExperience": 6,
+    "NumberOfRecipes": 25,
+    "Likes": 600
+  },
+  {
+    "ChefId": 7,
+    "ChefPicture": "https://example.com/chef7.jpg",
+    "ChefName": "Daniel Lee",
+    "YearsOfExperience": 4,
+    "NumberOfRecipes": 18,
+    "Likes": 400
+  },
+  {
+    "ChefId": 8,
+    "ChefPicture": "https://example.com/chef8.jpg",
+    "ChefName": "Alexis Martin",
+    "YearsOfExperience": 7,
+    "NumberOfRecipes": 35,
+    "Likes": 700
+  }
+]
