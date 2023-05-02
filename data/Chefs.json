@@ -1,7 +1,7 @@
 [
   {
     "ChefId": 1,
-    "ChefPicture": "https://example.com/chef1.jpg",
+    "ChefPicture": "https://i.ibb.co/9qNDfK3/chef1.webp",
     "ChefName": "John Smith",
     "YearsOfExperience": 10,
     "NumberOfRecipes": 50,
@@ -9,7 +9,7 @@
   },
   {
     "ChefId": 2,
-    "ChefPicture": "https://example.com/chef2.jpg",
+    "ChefPicture": "https://i.ibb.co/DKkyjrt/chef2.webp",
     "ChefName": "Sarah Lee",
     "YearsOfExperience": 5,
     "NumberOfRecipes": 20,
@@ -17,7 +17,7 @@
   },
   {
     "ChefId": 3,
-    "ChefPicture": "https://example.com/chef3.jpg",
+    "ChefPicture": "https://i.ibb.co/mT89gwd/chef3.webp",
     "ChefName": "David Kim",
     "YearsOfExperience": 8,
     "NumberOfRecipes": 30,
@@ -25,7 +25,7 @@
   },
   {
     "ChefId": 4,
-    "ChefPicture": "https://example.com/chef4.jpg",
+    "ChefPicture": "https://i.ibb.co/2M1Px3H/chef4.webp",
     "ChefName": "Emily Chen",
     "YearsOfExperience": 3,
     "NumberOfRecipes": 15,
@@ -33,7 +33,7 @@
   },
   {
     "ChefId": 5,
-    "ChefPicture": "https://example.com/chef5.jpg",
+    "ChefPicture": "https://i.ibb.co/5K6M8vn/chef5.webp",
     "ChefName": "James Rodriguez",
     "YearsOfExperience": 12,
     "NumberOfRecipes": 75,
@@ -41,7 +41,7 @@
   },
   {
     "ChefId": 6,
-    "ChefPicture": "https://example.com/chef6.jpg",
+    "ChefPicture": "https://i.ibb.co/KVMfTc2/chef6.webp",
     "ChefName": "Maria Garcia",
     "YearsOfExperience": 6,
     "NumberOfRecipes": 25,
@@ -49,7 +49,7 @@
   },
   {
     "ChefId": 7,
-    "ChefPicture": "https://example.com/chef7.jpg",
+    "ChefPicture": "https://i.ibb.co/nbJzBqQ/chef7.webp",
     "ChefName": "Daniel Lee",
     "YearsOfExperience": 4,
     "NumberOfRecipes": 18,
@@ -57,7 +57,7 @@
   },
   {
     "ChefId": 8,
-    "ChefPicture": "https://example.com/chef8.jpg",
+    "ChefPicture": "https://i.ibb.co/DbVjFpc/chef8.webp",
     "ChefName": "Alexis Martin",
     "YearsOfExperience": 7,
     "NumberOfRecipes": 35,
