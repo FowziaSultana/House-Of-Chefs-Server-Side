@@ -2,10 +2,11 @@
   {
     "ChefId": 1,
     "ChefPicture": "https://i.ibb.co/9qNDfK3/chef1.webp",
-    "ChefName": "John Smith",
+    "ChefName": "Thitid Tassanakajohn",
     "YearsOfExperience": 10,
     "NumberOfRecipes": 50,
-    "Likes": 1000
+    "Likes": 1000,
+    "Bio": "Chef Thitid Tassanakajohn is a male Thai chef and owner of Le Du restaurant in Bangkok. He is known for his creative use of local ingredients and has been named Asia's Best Chef in 2021 by Asia's 50 Best Restaurants"
   },
   {
     "ChefId": 2,
@@ -13,7 +14,8 @@
     "ChefName": "Sarah Lee",
     "YearsOfExperience": 5,
     "NumberOfRecipes": 20,
-    "Likes": 500
+    "Likes": 500,
+    "Bio": "Chef Sarah Lee is a female Thai chef and owner of Bo.lan restaurant in Bangkok. She is known for her modern interpretation of traditional Thai cuisine and has received numerous awards for her culinary skills."
   },
   {
     "ChefId": 3,
@@ -21,46 +23,52 @@
     "ChefName": "David Kim",
     "YearsOfExperience": 8,
     "NumberOfRecipes": 30,
-    "Likes": 800
+    "Likes": 800,
+    "Bio": "Chef David Kim is a male Thai chef and owner of R-Haan restaurant in Bangkok. He is known for his authentic Thai cuisine and has been awarded a Michelin star for his culinary creations."
   },
   {
     "ChefId": 4,
     "ChefPicture": "https://i.ibb.co/2M1Px3H/chef4.webp",
-    "ChefName": "Emily Chen",
+    "ChefName": "Pim Techamuanvivit",
     "YearsOfExperience": 3,
     "NumberOfRecipes": 15,
-    "Likes": 300
+    "Likes": 300,
+    "Bio": "Chef Pim Techamuanvivit is a female Thai chef who is the owner of Kin Khao restaurant in San Francisco. She is known for her innovative take on Thai street food and has been awarded a Michelin star for her culinary creations."
   },
   {
     "ChefId": 5,
     "ChefPicture": "https://i.ibb.co/5K6M8vn/chef5.webp",
-    "ChefName": "James Rodriguez",
+    "ChefName": "Noom Thaninthorn Chanthawan",
     "YearsOfExperience": 12,
     "NumberOfRecipes": 75,
-    "Likes": 1500
+    "Likes": 1500,
+    "Bio": "Chef Noom Thaninthorn Chanthawan is a male Thai chef and owner of Chim by Siam Wisdom restaurant in Bangkok. He is known for his innovative use of local ingredients and has been named Best Chef of Thailand by the World Gourmet Summit."
   },
   {
     "ChefId": 6,
     "ChefPicture": "https://i.ibb.co/KVMfTc2/chef6.webp",
-    "ChefName": "Maria Garcia",
+    "ChefName": "Bee Satongun",
     "YearsOfExperience": 6,
     "NumberOfRecipes": 25,
-    "Likes": 600
+    "Likes": 600,
+    "Bio": "Chef Bee Satongun is a female Thai chef and co-owner of Paste Bangkok restaurant. She is known for her meticulous approach to cooking and her ability to reinvent traditional Thai dishes with contemporary techniques."
   },
   {
     "ChefId": 7,
     "ChefPicture": "https://i.ibb.co/nbJzBqQ/chef7.webp",
-    "ChefName": "Daniel Lee",
+    "ChefName": "Ian Kittichai",
     "YearsOfExperience": 4,
     "NumberOfRecipes": 18,
-    "Likes": 400
+    "Likes": 400,
+    "Bio": "Chef Ian Kittichai is a male Thai chef and owner of Issaya Siamese Club in Bangkok. He is known for his contemporary Thai cuisine and has been featured in international cooking shows such as Iron Chef Thailand and Top Chef Masters."
   },
   {
     "ChefId": 8,
     "ChefPicture": "https://i.ibb.co/DbVjFpc/chef8.webp",
-    "ChefName": "Alexis Martin",
+    "ChefName": "Ton Thitid Alex",
     "YearsOfExperience": 7,
     "NumberOfRecipes": 35,
-    "Likes": 700
+    "Likes": 700,
+    "Bio": "Chef Ton Thitid Alex is a male Thai chef and owner of Baan restaurant in Bangkok. He is known for his sophisticated take on Thai comfort food and has been awarded a Michelin star for his culinary creations"
   }
 ]
