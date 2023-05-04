@@ -1,0 +1,338 @@
+[
+  {
+    "chef_id": 1,
+    "recipe_id": "R001",
+    "recipe_name": "Tom Yum Soup",
+    "ingredients": [
+      "1 lemongrass stalk",
+      "3 kaffir lime leaves",
+      "1-2 bird's eye chilies",
+      "2 cups chicken broth",
+      "1 cup straw mushrooms"
+    ],
+    "cooking_method": "In a medium saucepan, bring the chicken broth to a boil. Add the lemongrass, kaffir lime leaves, and bird's eye chilies. Simmer for 5 minutes. Add the mushrooms and cook until softened, about 2-3 minutes. Serve hot.",
+    "rating": 4.8
+  },
+  {
+    "chef_id": 1,
+    "recipe_id": "R002",
+    "recipe_name": "Pad Thai",
+    "ingredients": [
+      "4 oz rice noodles",
+      "2 tbsp vegetable oil",
+      "2 cloves garlic, minced",
+      "1/4 cup tofu, cubed",
+      "2 tbsp fish sauce",
+      "1 tbsp tamarind paste"
+    ],
+    "cooking_method": "Soak the rice noodles in warm water for 15 minutes. In a wok or large skillet, heat the vegetable oil over medium-high heat. Add the garlic and tofu and cook for 2-3 minutes. Add the soaked rice noodles, fish sauce, and tamarind paste. Stir-fry for 5-7 minutes, or until the noodles are cooked through. Serve hot.",
+    "rating": 4.6
+  },
+  {
+    "chef_id": 1,
+    "recipe_id": "R003",
+    "recipe_name": "Green Curry",
+    "ingredients": [
+      "1 lb chicken thighs",
+      "1 can coconut milk",
+      "2 tbsp green curry paste",
+      "1 eggplant, cut into cubes",
+      "1 red bell pepper, sliced"
+    ],
+    "cooking_method": "In a large pot, heat the coconut milk over medium heat. Add the green curry paste and stir to combine. Add the chicken thighs, eggplant, and red bell pepper. Simmer for 15-20 minutes, or until the chicken is cooked through and the vegetables are tender. Serve hot.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 2,
+    "recipe_id": "R004",
+    "recipe_name": "Pad Kra Pao",
+    "ingredients": [
+      "1 lb ground pork",
+      "2 tbsp vegetable oil",
+      "3 garlic cloves, minced",
+      "2 bird's eye chilies, sliced",
+      "2 tbsp fish sauce"
+    ],
+    "cooking_method": "In a wok or large skillet, heat the vegetable oil over medium-high heat. Add the garlic and chilies and cook for 1-2 minutes. Add the ground pork and cook until browned and crispy, about 5-7 minutes. Add the fish sauce and stir to combine. Serve hot.",
+    "rating": 4.5
+  },
+  {
+    "chef_id": 2,
+    "recipe_id": "R005",
+    "recipe_name": "Massaman Curry",
+    "ingredients": [
+      "1 lb beef chuck roast",
+      "1 can coconut milk",
+      "2 tbsp massaman curry paste",
+      "1 sweet potato, cut into cubes",
+      "1 onion, chopped"
+    ],
+    "cooking_method": "In a large pot, heat the coconut milk over medium heat. Add the massaman curry paste and stir to combine. Add the beef chuck roast, sweet potato, and onion. Simmer for 2-3 hours, or until the beef is tender and the vegetables are soft. Serve hot.",
+    "rating": 4.9
+  },
+  {
+    "chef_id": 2,
+    "recipe_id": "R006",
+    "recipe_name": "Thai Green Papaya Salad",
+    "ingredients": [
+      "1 green papaya, peeled and grated",
+      "1 carrot, grated",
+      "1 lime, juiced",
+      "2 tbsp fish sauce",
+      "2 tbsp palm sugar"
+    ],
+    "cooking_method": "In a large bowl, mix together the grated green papaya and carrot. In a separate bowl, whisk together the lime juice, fish sauce, and palm sugar. Pour the dressing over the papaya and carrot mixture and toss to combine. Serve cold.",
+    "rating": 4.4
+  },
+  {
+    "chef_id": 3,
+    "recipe_id": "R007",
+    "recipe_name": "Thai Basil Chicken",
+    "ingredients": [
+      "1 lb chicken breast, cut into bite-sized pieces",
+      "2 tbsp vegetable oil",
+      "3 garlic cloves, minced",
+      "2 bird's eye chilies, sliced",
+      "1/2 cup fresh basil leaves"
+    ],
+    "cooking_method": "In a wok or large skillet, heat the vegetable oil over medium-high heat. Add the garlic and chilies and cook for 1-2 minutes. Add the chicken breast and cook until browned and cooked through, about 5-7 minutes. Add the fresh basil leaves and stir to combine. Serve hot.",
+    "rating": 4.6
+  },
+  {
+    "chef_id": 3,
+    "recipe_id": "R008",
+    "recipe_name": "Mango Sticky Rice",
+    "ingredients": [
+      "1 cup glutinous rice",
+      "1 can coconut milk",
+      "1/2 cup sugar",
+      "2 ripe mangoes, sliced"
+    ],
+    "cooking_method": "Soak the glutinous rice in water for 30 minutes. In a saucepan, combine the soaked glutinous rice, coconut milk, and sugar. Cook over low heat, stirring occasionally, until the rice is cooked and the mixture is thick and sticky, about 20-25 minutes. Serve with sliced mangoes on top.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 3,
+    "recipe_id": "R009",
+    "recipe_name": "Tom Yum Soup",
+    "ingredients": [
+      "1 lemongrass stalk",
+      "3 kaffir lime leaves",
+      "1-2 bird's eye chilies",
+      "2 cups chicken broth",
+      "1 cup straw mushrooms"
+    ],
+    "cooking_method": "In a medium saucepan, bring the chicken broth to a boil. Add the lemongrass, kaffir lime leaves, and bird's eye chilies. Simmer for 5 minutes. Add the mushrooms and cook until softened, about 2-3 minutes. Serve hot.",
+    "rating": 4.8
+  },
+  {
+    "chef_id": 4,
+    "recipe_id": "R0010",
+    "recipe_name": "Pad Thai",
+    "ingredients": [
+      "4 oz rice noodles",
+      "2 tbsp vegetable oil",
+      "2 cloves garlic, minced",
+      "1/4 cup tofu, cubed",
+      "2 tbsp fish sauce",
+      "1 tbsp tamarind paste"
+    ],
+    "cooking_method": "Soak the rice noodles in warm water for 15 minutes. In a wok or large skillet, heat the vegetable oil over medium-high heat. Add the garlic and tofu and cook for 2-3 minutes. Add the soaked rice noodles, fish sauce, and tamarind paste. Stir-fry for 5-7 minutes, or until the noodles are cooked through. Serve hot.",
+    "rating": 4.6
+  },
+  {
+    "chef_id": 4,
+    "recipe_id": "R0011",
+    "recipe_name": "Green Curry",
+    "ingredients": [
+      "1 lb chicken thighs",
+      "1 can coconut milk",
+      "2 tbsp green curry paste",
+      "1 eggplant, cut into cubes",
+      "1 red bell pepper, sliced"
+    ],
+    "cooking_method": "In a large pot, heat the coconut milk over medium heat. Add the green curry paste and stir to combine. Add the chicken thighs, eggplant, and red bell pepper. Simmer for 15-20 minutes, or until the chicken is cooked through and the vegetables are tender. Serve hot.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 4,
+    "recipe_id": "R0012",
+    "recipe_name": "Pad Kra Pao",
+    "ingredients": [
+      "1 lb ground pork",
+      "2 tbsp vegetable oil",
+      "3 garlic cloves, minced",
+      "2 bird's eye chilies, sliced",
+      "2 tbsp fish sauce"
+    ],
+    "cooking_method": "In a wok or large skillet, heat the vegetable oil over medium-high heat. Add the garlic and chilies and cook for 1-2 minutes. Add the ground pork and cook until browned and crispy, about 5-7 minutes. Add the fish sauce and stir to combine. Serve hot.",
+    "rating": 4.5
+  },
+  {
+    "chef_id": 5,
+    "recipe_id": "R0013",
+    "recipe_name": "Massaman Curry",
+    "ingredients": [
+      "1 lb beef chuck roast",
+      "1 can coconut milk",
+      "2 tbsp massaman curry paste",
+      "1 sweet potato, cut into cubes",
+      "1 onion, chopped"
+    ],
+    "cooking_method": "In a large pot, heat the coconut milk over medium heat. Add the massaman curry paste and stir to combine. Add the beef chuck roast, sweet potato, and onion. Simmer for 2-3 hours, or until the beef is tender and the vegetables are soft. Serve hot.",
+    "rating": 4.9
+  },
+  {
+    "chef_id": 5,
+    "recipe_id": "R0014",
+    "recipe_name": "Thai Green Papaya Salad",
+    "ingredients": [
+      "1 green papaya, peeled and grated",
+      "1 carrot, grated",
+      "1 lime, juiced",
+      "2 tbsp fish sauce",
+      "2 tbsp palm sugar"
+    ],
+    "cooking_method": "In a large bowl, mix together the grated green papaya and carrot. In a separate bowl, whisk together the lime juice, fish sauce, and palm sugar. Pour the dressing over the papaya and carrot mixture and toss to combine. Serve cold.",
+    "rating": 4.4
+  },
+  {
+    "chef_id": 5,
+    "recipe_id": "R0015",
+    "recipe_name": "Thai Basil Chicken",
+    "ingredients": [
+      "1 lb chicken breast, cut into bite-sized pieces",
+      "2 tbsp vegetable oil",
+      "3 garlic cloves, minced",
+      "2 bird's eye chilies, sliced",
+      "1/2 cup fresh basil leaves"
+    ],
+    "cooking_method": "In a wok or large skillet, heat the vegetable oil over medium-high heat. Add the garlic and chilies and cook for 1-2 minutes. Add the chicken breast and cook until browned and cooked through, about 5-7 minutes. Add the fresh basil leaves and stir to combine. Serve hot.",
+    "rating": 4.6
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": "R0016",
+    "recipe_name": "Mango Sticky Rice",
+    "ingredients": [
+      "1 cup glutinous rice",
+      "1 can coconut milk",
+      "1/2 cup sugar",
+      "2 ripe mangoes, sliced"
+    ],
+    "cooking_method": "Soak the glutinous rice in water for 30 minutes. In a saucepan, combine the soaked glutinous rice, coconut milk, and sugar. Cook over low heat, stirring occasionally, until the rice is cooked and the mixture is thick and sticky, about 20-25 minutes. Serve with sliced mangoes on top.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": "R0017",
+    "recipe_name": "Tom Yum Soup",
+    "ingredients": [
+      "1 lemongrass stalk",
+      "3 kaffir lime leaves",
+      "1-2 bird's eye chilies",
+      "2 cups chicken broth",
+      "1 cup straw mushrooms"
+    ],
+    "cooking_method": "In a medium saucepan, bring the chicken broth to a boil. Add the lemongrass, kaffir lime leaves, and bird's eye chilies. Simmer for 5 minutes. Add the mushrooms and cook until softened, about 2-3 minutes. Serve hot.",
+    "rating": 4.8
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": "R0018",
+    "recipe_name": "Pad Thai",
+    "ingredients": [
+      "4 oz rice noodles",
+      "2 tbsp vegetable oil",
+      "2 cloves garlic, minced",
+      "1/4 cup tofu, cubed",
+      "2 tbsp fish sauce",
+      "1 tbsp tamarind paste"
+    ],
+    "cooking_method": "Soak the rice noodles in warm water for 15 minutes. In a wok or large skillet, heat the vegetable oil over medium-high heat. Add the garlic and tofu and cook for 2-3 minutes. Add the soaked rice noodles, fish sauce, and tamarind paste. Stir-fry for 5-7 minutes, or until the noodles are cooked through. Serve hot.",
+    "rating": 4.6
+  },
+  {
+    "chef_id": 7,
+    "recipe_id": "R0019",
+    "recipe_name": "Green Curry",
+    "ingredients": [
+      "1 lb chicken thighs",
+      "1 can coconut milk",
+      "2 tbsp green curry paste",
+      "1 eggplant, cut into cubes",
+      "1 red bell pepper, sliced"
+    ],
+    "cooking_method": "In a large pot, heat the coconut milk over medium heat. Add the green curry paste and stir to combine. Add the chicken thighs, eggplant, and red bell pepper. Simmer for 15-20 minutes, or until the chicken is cooked through and the vegetables are tender. Serve hot.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 7,
+    "recipe_id": "R0020",
+    "recipe_name": "Pad Kra Pao",
+    "ingredients": [
+      "1 lb ground pork",
+      "2 tbsp vegetable oil",
+      "3 garlic cloves, minced",
+      "2 bird's eye chilies, sliced",
+      "2 tbsp fish sauce"
+    ],
+    "cooking_method": "In a wok or large skillet, heat the vegetable oil over medium-high heat. Add the garlic and chilies and cook for 1-2 minutes. Add the ground pork and cook until browned and crispy, about 5-7 minutes. Add the fish sauce and stir to combine. Serve hot.",
+    "rating": 4.5
+  },
+  {
+    "chef_id": 7,
+    "recipe_id": "R0021",
+    "recipe_name": "Massaman Curry",
+    "ingredients": [
+      "1 lb beef chuck roast",
+      "1 can coconut milk",
+      "2 tbsp massaman curry paste",
+      "1 sweet potato, cut into cubes",
+      "1 onion, chopped"
+    ],
+    "cooking_method": "In a large pot, heat the coconut milk over medium heat. Add the massaman curry paste and stir to combine. Add the beef chuck roast, sweet potato, and onion. Simmer for 2-3 hours, or until the beef is tender and the vegetables are soft. Serve hot.",
+    "rating": 4.9
+  },
+  {
+    "chef_id": 8,
+    "recipe_id": "R0022",
+    "recipe_name": "Thai Green Papaya Salad",
+    "ingredients": [
+      "1 green papaya, peeled and grated",
+      "1 carrot, grated",
+      "1 lime, juiced",
+      "2 tbsp fish sauce",
+      "2 tbsp palm sugar"
+    ],
+    "cooking_method": "In a large bowl, mix together the grated green papaya and carrot. In a separate bowl, whisk together the lime juice, fish sauce, and palm sugar. Pour the dressing over the papaya and carrot mixture and toss to combine. Serve cold.",
+    "rating": 4.4
+  },
+  {
+    "chef_id": 8,
+    "recipe_id": "R0023",
+    "recipe_name": "Thai Basil Chicken",
+    "ingredients": [
+      "1 lb chicken breast, cut into bite-sized pieces",
+      "2 tbsp vegetable oil",
+      "3 garlic cloves, minced",
+      "2 bird's eye chilies, sliced",
+      "1/2 cup fresh basil leaves"
+    ],
+    "cooking_method": "In a wok or large skillet, heat the vegetable oil over medium-high heat. Add the garlic and chilies and cook for 1-2 minutes. Add the chicken breast and cook until browned and cooked through, about 5-7 minutes. Add the fresh basil leaves and stir to combine. Serve hot.",
+    "rating": 4.6
+  },
+  {
+    "chef_id": 8,
+    "recipe_id": "R0024",
+    "recipe_name": "Mango Sticky Rice",
+    "ingredients": [
+      "1 cup glutinous rice",
+      "1 can coconut milk",
+      "1/2 cup sugar",
+      "2 ripe mangoes, sliced"
+    ],
+    "cooking_method": "Soak the glutinous rice in water for 30 minutes. In a saucepan, combine the soaked glutinous rice, coconut milk, and sugar. Cook over low heat, stirring occasionally, until the rice is cooked and the mixture is thick and sticky, about 20-25 minutes. Serve with sliced mangoes on top.",
+    "rating": 4.7
+  }
+]
